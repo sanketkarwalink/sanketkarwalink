@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=MCA+Student+%7C+Data+Analyst;Full+Stack+Developer+%7C+MERN+Stack;AI-Assisted+Development+Enthusiast;QR+Systems+%26+Healthcare+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=MCA+Student+%7C+Problem+Solver;AI-Assisted+Development;Building+with+Go%2C+Python%2C+JavaScript;Learning+Backend+%26+Cloud+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,61 +10,62 @@
 
 ## 🚀 About Me
 
-🎓 **MCA Student** at **Thapar Institute of Engineering & Technology**  
-📊 **Data Analyst** + **Full Stack Developer** (MERN Stack)  
-🤖 **AI-Assisted Development Enthusiast** - Leveraging AI tools for efficient coding  
-🔧 **Specialized in** QR Code Systems, Healthcare Tech & Data Analytics  
-🌱 **Always exploring** new technologies and AI-powered development workflows  
+🎓 **MCA Student** learning backend and cloud engineering  
+🤖 **AI-Assisted Developer** - Building projects using AI agents and problem-solving skills  
+💡 **Problem Solver** with strong logical thinking abilities  
+🌱 **Currently learning** Go, REST APIs, Docker, and scalable systems  
+🎯 **Deloitte graduate** with interest in building practical solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data Analytics & AI**  
+**Languages I Use**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-**Full Stack Development**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-**Languages & Tools**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Tools & AI Assistance**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+**Learning**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ---
 
-## 🏆 Featured Project
+## 🚀 My Projects
 
-### 🏥 [MediQR Healthcare Management System](https://github.com/sanketkarwalink/MediQR-Healthcare-Management)
-> **My Role**: QR Code System Developer & Location Services Developer
+### 🤖 [AI Code Reviewer Pro](https://github.com/sanketkarwalink/ai-code-reviewer-pro)
+AI-powered code analysis platform with automated fixing and comprehensive analytics
+- **Tech**: TypeScript, AI integration
+- **What it does**: Analyzes code and provides automated fixes
 
-**Emergency healthcare platform** with QR-based medical data access
-- **Stack**: MERN (MongoDB, Express.js, React, Node.js)
-- **My Contribution**: Complete QR code generation/scanning system
-- **Impact**: Instant medical data access for emergency situations
+### 📊 [Excel-SQL Reconciler](https://github.com/sanketkarwalink/Excel-SQL-reconciler)
+AI-powered tool to compare Excel and SQL data files and find discrepancies
+- **Tech**: Python, OpenAI GPT-4
+- **What it does**: Automated data reconciliation and reporting
+- **Topics**: Finance, Automation, Data Analysis
 
-**What I Built:**
-- ✅ QR code generation for medical profiles
-- ✅ Camera-based QR scanner integration
-- ✅ GPS location detection and mapping
-- ✅ Emergency contact notification system
+### 🔧 [Go Task API](https://github.com/sanketkarwalink/go-task-api)
+Simple RESTful Task Manager API built with Go
+- **Tech**: Go/Golang
+- **What it does**: CRUD operations with local JSON storage
+- **Topics**: REST API, Backend, Portfolio
 
-```javascript
-// QR Generation System I Developed
-const generateMedicalQR = async (patientId) => {
-    const qrData = `${FRONTEND_URL}/emergency/${patientId}`;
-    return await QRCode.toDataURL(qrData, {
-        errorCorrectionLevel: 'H'
-    });
-};
-```
+### 📈 [Niftybees Dip Alerter](https://github.com/sanketkarwalink/niftybees-dip-alerter)
+Financial alerting system for market dips
+- **Tech**: JavaScript
+- **What it does**: Monitors and alerts on market changes
+
+### 🎨 [WeaverCrafts](https://github.com/sanketkarwalink/WeaverCrafts)
+Web development project
+- **Tech**: HTML/CSS
+- **What it does**: Frontend web application
 
 ---
 
@@ -80,33 +81,30 @@ const generateMedicalQR = async (patientId) => {
 
 ---
 
-## 🎯 Current Focus
+## �� Currently Learning
 
-🔥 **Working On:**
-- 📊 Data analysis projects with Python
-- 🤖 AI-powered code review systems
-- 🏥 Healthcare technology solutions
+📚 **Focused On:**
+- 🔧 **Backend Development** with Go and REST APIs
+- ☁️ **Cloud Engineering** and Docker
+- 🤖 **AI Integration** in development workflows
+- 📊 **Data Processing** and automation tools
 
-📚 **Learning:**
-- 🤖 Machine Learning & AI integration
-- ☁️ Cloud platforms (AWS, Azure)
-- 📱 Advanced React patterns
-
-💡 **AI-Assisted Development Approach:**
-- Using GitHub Copilot for faster coding
-- Leveraging ChatGPT for problem-solving
-- Integrating AI tools in development workflow
+💡 **My Approach:**
+- Using AI agents to accelerate learning and development
+- Building practical projects to solve real problems
+- Strong focus on problem-solving and logical thinking
+- Learning by doing and iterating
 
 ---
 
-## 🌟 What Drives Me
+## 🌟 What I Believe
 
-> **"Combining human creativity with AI efficiency to build solutions that matter"**
+> **"Great solutions come from combining human logic with AI assistance"**
 
-- 📊 **Data-Driven Decisions**: Using analytics to solve real problems
-- 🤖 **AI-Enhanced Development**: Leveraging AI tools for productivity
-- 🏥 **Healthcare Innovation**: Building tech that can save lives
-- 🎓 **Continuous Learning**: Always exploring new technologies
+- 🧠 **Problem-First Approach**: Understanding the problem before coding
+- 🤖 **AI-Assisted Development**: Leveraging tools to be more productive
+- 📈 **Continuous Learning**: Always exploring new technologies
+- 💼 **Practical Solutions**: Building things that actually work
 
 ---
 
@@ -117,8 +115,9 @@ const generateMedicalQR = async (patientId) => {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanketkarwa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketkarwalink)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketkarwa.work@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sankettkarwa/)
 
-**💭 "Building the future with data, code, and AI"**
+**💭 "Learning, building, and solving problems one project at a time"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanketkarwalink&color=brightgreen&style=flat)
 
