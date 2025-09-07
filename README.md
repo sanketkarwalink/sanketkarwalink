@@ -2,7 +2,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=MCA+Student+%7C+Problem+Solver;Aspiring+Analyst+%26+SDE;AI-Assisted+Development;Building+with+Go%2C+Python%2C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.**📚 Currently Learning:**
+- 🐍 **Python for Data Analysis** - Pandas, NumPy, data processing
+- 🔧 **Backend Development** - Go, REST APIs, databases
+- ☁️ **Cloud Technologies** - Docker, deployment
+- 📊 **Advanced Analytics** - Power BI dashboards, Tableau visualizations
+- 🗃️ **Database Skills** - SQL optimization, data modelinguapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=MCA+Student+%7C+Problem+Solver;Aspiring+Analyst+%26+SDE;AI-Assisted+Development;Building+with+Go%2C+Python%2C+JavaScript)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,9 +32,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Data & Analysis**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & AI Assistance**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,9 +94,10 @@ Web development project showcasing frontend skills
 ## 🎯 Career Goals
 
 **💼 Target Roles:**
-- 📊 **Data Analyst** - Using Python, SQL, Excel for insights
+- 📊 **Data Analyst** - Excel, SQL, Power BI, Tableau for insights
 - 💻 **Software Developer (SDE)** - Building applications and APIs
-- 🔍 **Business Analyst** - Problem-solving with technical skills
+- 🔍 **Business Analyst** - Data-driven problem-solving
+- 📈 **BI Analyst** - Dashboard creation and data visualization
 - 🤖 **AI/ML roles** - Leveraging AI for solutions
 
 **📚 Currently Learning:**
@@ -113,9 +121,10 @@ Web development project showcasing frontend skills
 
 **💪 Strengths:**
 - Strong logical thinking and problem decomposition
+- Data analysis and visualization (Excel, SQL, Power BI, Tableau)
 - Quick learning with AI assistance
 - Building end-to-end solutions
-- Data analysis and automation mindset
+- Dashboard creation and business insights
 
 ---
 
